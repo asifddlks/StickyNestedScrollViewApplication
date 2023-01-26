@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!--****************************************************************************
+  * Copyright TVL. 2022. All rights reserved.
+  * Last modified by rashid5609 on 26/12/2022, 13:49
+  ***************************************************************************-->
+
+<resources>
+    <declare-styleable name="StickyNestedScrollView">
+        <attr name="stuckShadowHeight" format="dimension" />
+        <attr name="stuckShadowDrawable" format="reference" />
+    </declare-styleable>
+</resources>
